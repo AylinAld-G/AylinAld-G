@@ -7,7 +7,7 @@ Soy Ingeniera QA Junior con una fuerte pasión por el testing y en constante evo
 
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
-
+#### Testing
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
   </a>
@@ -20,6 +20,25 @@ Soy Ingeniera QA Junior con una fuerte pasión por el testing y en constante evo
   <img decoding="async" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="swagger"/>
   </a>
   <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  </a>
+
+</div>
+
+#### Otras
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
   </a>
 
 </div>
