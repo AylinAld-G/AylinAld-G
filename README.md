@@ -5,7 +5,7 @@ Soy Ingeniera QA Junior con una fuerte pasión por el testing y en constante evo
 
 * :computer: Mi enfoque está en abarcar lo más posible en términos de tecnologías y metodologías modernas de testing, con el objetivo de mejorar continuamente mis habilidades para contribuir a la mejora de la calidad del software.
   
-* :blue_book: Puedes conocer más de mis proyectos en este link: [(https://img.shields.io/badge/website-000000?style=for-the-badge&logo=Portfolio.me&logoColor=white)](https://petal-apogee-9bb.notion.site/Portfolio-QA-Engineer-Ayl-n-Aldana-18101cb63d2480d2842cebb2438cf5a0)
+* :blue_book: Puedes conocer más de mis proyectos en este link: [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=Portfolio.me&logoColor=white)](https://petal-apogee-9bb.notion.site/Portfolio-QA-Engineer-Ayl-n-Aldana-18101cb63d2480d2842cebb2438cf5a0)
 
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
