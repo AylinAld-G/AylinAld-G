@@ -1,5 +1,5 @@
 ### :woman_technologist: Sobre mí :
-Soy Ingeniera QA Junior con una fuerte pasión por el testing y en constante evolución en este campo.
+Soy Ingeniera QA Junior con una fuerte pasión por el testing y en constante evolución en este campo. Mi enfoque abarca tanto pruebas manuales como automatizadas, utilizando herramientas como JIRA, Postman, Selenium, Pytest, Android Studio y SQL, entre otras. Además, soy Ingeniera en Computación, con fortalezas en bases de datos y desarrollo web. Me apasiona seguir aprendiendo sobre nuevas tecnologías aplicadas al testing, y busco expandir mis conocimientos en pruebas automatizadas, explorando más lenguajes y herramientas.
 
 * :seedling: Me estoy adentrando en el mundo del control de calidad del software, siempre buscando aprender y adaptarme a las nuevas tendencias y herramientas que surgen.
 
